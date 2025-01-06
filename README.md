@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AldiAlfatih
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, NLP, IoT, Robotic, Business, and Mobile Development
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
